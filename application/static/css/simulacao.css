@@ -1,0 +1,38 @@
+.navbar-geral {
+    padding: 0%;
+    background-color: #016dda;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.navbar-linha-superior {
+    background-color:  #025fc1; 
+    padding: 10px 7%;
+}
+
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+.nm-text {
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    border-color: rgb(0, 0, 0);
+    font-size: 1.2rem;
+    margin-bottom: 2px;
+    height: 38.4;
+    border-radius: 0.1rem;
+    padding: 8px 10px;
+    background-color: rgb(255, 255, 255);
+  }
